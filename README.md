@@ -16,10 +16,10 @@ This tutorial will introduce you to the [Summit](https://www.colorado.edu/rc/res
 1. Intro to CURC resources
 2. Linux basics and navigating the CURC system
 3. Setting up an Anaconda environment (python and R)
-4. Using CURC JupyterHub
-5. Scheduling batch and interactive jobs on Summit
-6. Data transfers (Globus, scp)
-7. Managing data for your group
+4. Scheduling batch and interactive jobs on Summit
+5. CURC JupyterHub, CURC EnginFrame (Demo)
+7. Data transfers (Globus, scp) (Demo)
+8. Managing data for your group (Discussion)
 
 
 ### Prerequisites: 
@@ -36,6 +36,6 @@ Contact andrew.monaghan@colorado.edu if you have questions.
 ### Course Materials: 
 Slides will be posted at this URL before the course begins.
 
-https://github.com/ResearchComputing/BLANCA_PAPP_FALL_2020
+https://github.com/ResearchComputing/Dee_Lab_Summer_2021
 
 (from command line: `git clone https://github.com/ResearchComputing/Dee_Lab_Summer_2021`)
