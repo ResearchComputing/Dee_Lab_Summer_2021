@@ -1,4 +1,3 @@
-[monaghaa@shas0137 wkshp]$ cat cars_mpg.sh
 #!/bin/bash
 #SBATCH --time=00:01:00
 #SBATCH --partition=shas
